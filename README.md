@@ -27,3 +27,9 @@ Visually, it means that the yield of apples is a linear or planar function of te
 
 The learning part of linear regression is to figure out a set of weights w11, w12,... w23, b1 & b2 by looking at the training data, to make accurate predictions for new data (i.e. to predict the yields for apples and oranges in a new region using the average temperature, rainfall and humidity). This is done by adjusting the weights slightly many times to make better predictions, using an optimization technique called gradient descent.
 
+1. Type and run each line of code in [Google Colab](https://colab.research.google.com/notebooks/intro.ipynb).
+2. Or find the [original jupyter notebook](https://colab.research.google.com/gist/ARBUCHELI/3fd8eb4e231bdf5221dd786f05848925/linear-regression-with-pytorch.ipynb) and run the cells in Google Colab.
+
+
+# Author: Andrés R. Bucheli.
+(Inspired in Deep Learning with PyTorch - Zero to GANs - Udemy)
