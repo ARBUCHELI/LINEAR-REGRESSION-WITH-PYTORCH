@@ -8,12 +8,12 @@ Linear regression is one of the foundational algoritms of Machine Learning.  On 
 
 Here is the training Data:
 
-REGION        TEMP (F)    RAINFALL (mm)     HUMIDITY (%)      APPLES (ton)      ORANGES (ton)
-Texas         73          67                43                56                70  
-California    91          88                64                81                101
-Florida       87          134               58                119               133
-New Mexico    102         43                37                22                37
-Arizona       69          96                70                103               119
+    REGION        TEMP (F)    RAINFALL (mm)     HUMIDITY (%)      APPLES (ton)      ORANGES (ton)
+    Texas         73          67                43                56                70  
+    California    91          88                64                81                101
+    Florida       87          134               58                119               133
+    New Mexico    102         43                37                22                37
+    Arizona       69          96                70                103               119
 
 In a linear regression model, each target variable is estimated to be a weighted sum of the input variables, offset by some constant, known as a bias :
 
