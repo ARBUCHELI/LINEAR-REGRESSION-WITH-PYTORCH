@@ -17,8 +17,8 @@ Here is the training Data:
 
 In a linear regression model, each target variable is estimated to be a weighted sum of the input variables, offset by some constant, known as a bias :
 
-yield_apple  = w11 * temp + w12 * rainfall + w13 * humidity + b1
-yield_orange = w21 * temp + w22 * rainfall + w23 * humidity + b2
+    yield_apple  = w11 * temp + w12 * rainfall + w13 * humidity + b1
+    yield_orange = w21 * temp + w22 * rainfall + w23 * humidity + b2
 
 
 Visually, it means that the yield of apples is a linear or planar function of temperature, rainfall and humidity:
